@@ -1,0 +1,4 @@
+- crear nuevo componente llamado agregar
+- desde el h3 hasta el cierre del form
+- mover metodos del componente necesarios
+- @input personajes
